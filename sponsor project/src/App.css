@@ -1,0 +1,15 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+.image img{
+    width: 400px;
+    width: 400px;
+}
+
+.content{
+    justify-content: center;
+    padding-top: 120px;
+}
+.about-buuton{
+    margin-top: 25px;
+}
